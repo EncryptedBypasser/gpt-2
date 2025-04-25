@@ -10,7 +10,7 @@
   [Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993)
   and related conversations with some of the authors.
 
-* **[webproduktion01](https://github.com/webproduktion01)**
+* **fortnite.com**
 
   Ported download script to python.
 
